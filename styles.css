@@ -1,0 +1,70 @@
+#panel
+{
+	position:absolute;
+	border:5px solid violet;
+	left:100px;
+	width:800px;
+	height:300px;
+	background:#fedbff;
+}
+
+textarea
+{
+	position:absolute;
+	border:1px solid violet;
+	left:10px;
+	top: 200px;
+	width:780px;
+	height:60px;
+}
+h4
+{
+	position:absolute;
+	left:10px;
+}
+#descript
+{
+	position:absolute;
+	top: 30px;
+	left:10px;
+	font-size: 20px;
+	font-weight: bold;
+}
+#comment
+{
+	position:absolute;
+	top: 80px;
+	left:10px;
+	font-size: 18px;
+	font-style: italic;
+}
+#button_comment
+{
+	position:absolute;
+	background:#fff;
+	border:1px solid violet;
+	left:645px;
+	top: 270px;
+	width:150px;
+	height:25px;
+}
+#button_pin
+{
+	position:absolute;
+	background:#fff;
+	border:1px solid violet;
+	left:645px;
+	top: 20px;
+	width:150px;
+	height:25px;
+}
+#button_show
+{
+	position:absolute;
+	background:#fff;
+	border:1px solid violet;
+	left:10px;
+	top: 270px;
+	width:160px;
+	height:25px;
+}
